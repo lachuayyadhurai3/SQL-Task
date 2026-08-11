@@ -17,7 +17,7 @@ Technologies & Tools
 «The folder structure may evolve as additional SQL tasks and projects are added.»
 
 Topics Covered
-Database Fundamentals
+Database Fundamentals - Task 1
 - Database creation
 - Table creation
 - Data types
@@ -26,13 +26,13 @@ Database Fundamentals
 - Constraints
 - "ALTER", "DROP", and "TRUNCATE"
 
-Data Manipulation
+Data Manipulation - Task 2
 - "INSERT"
 - "UPDATE"
 - "DELETE"
 - "SELECT"
 
-Data Filtering & Sorting
+Data Filtering & Sorting - Task 3
 - "WHERE"
 - "AND" / "OR"
 - "IN"
@@ -42,7 +42,7 @@ Data Filtering & Sorting
 - "ORDER BY"
 - "DISTINCT"
 
-Aggregate & Grouping Operations
+Aggregate & Grouping Operations - Task 4
 - "COUNT()"
 - "SUM()"
 - "AVG()"
@@ -51,14 +51,14 @@ Aggregate & Grouping Operations
 - "GROUP BY"
 - "HAVING"
 
-Joins
+Joins - Task 5
 - "INNER JOIN"
 - "LEFT JOIN"
 - "RIGHT JOIN"
 - Self Joins
 - Multiple-table joins
 
-Advanced SQL
+Advanced SQL - Task 6
 - Subqueries
 - Correlated subqueries
 - Common Table Expressions (CTEs)
