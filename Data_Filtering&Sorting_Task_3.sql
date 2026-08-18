@@ -145,3 +145,6 @@ ORDER BY salary ASC;
 
 SELECT DISTINCT department
 FROM employees;
+
+SELECT DISTINCT job_title
+FROM employees;
